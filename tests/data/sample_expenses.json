@@ -1,0 +1,8 @@
+{
+  "people": ["Ali", "Sara", "Reza", "Mobin"],
+  "expenses": [
+    { "desc": "Dinner", "amount": "120.00", "currency": "USD", "paid_by": "Ali",   "for": ["Ali", "Sara", "Reza", "Mobin"] },
+    { "desc": "Taxi",   "amount": "36.00",  "currency": "USD", "paid_by": "Sara",  "for": ["Sara", "Reza"] },
+    { "desc": "Snacks", "amount": "24.00",  "currency": "USD", "paid_by": "Reza",  "for": ["Ali", "Sara", "Reza"] }
+  ]
+}
